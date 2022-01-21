@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Yogita Khurana  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-[![Twitter Follow](https://img.shields.io/twitter/follow/yogita10khurana?style=social)]
-[![GitHub followers](https://img.shields.io/github/followers/yogita10?style=social)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/yogita10khurana?style=social)](https://twitter.com/yogita10khurana)
+[![GitHub followers](https://img.shields.io/github/followers/yogita10?style=social)](https://github.com/yogita10)
 
 <h2>About me</h2>
 
