@@ -3,6 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/yogita10khurana?style=social)](https://twitter.com/yogita10khurana)
 [![GitHub followers](https://img.shields.io/github/followers/yogita10?style=social)](https://github.com/yogita10)
 
+<h2 align="center"><img src="https://raw.githubusercontent.com/yogita10/yogita10/main/Believe%20in%20Yourself.png"></h2>
+
 <h2>About me</h2>
 
 I am Yogita Khurana, an upcoming Software Engineer Intern [Microsoft](https://github.com/microsoft). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
