@@ -17,9 +17,9 @@ I am Yogita Khurana, an upcoming Software Engineer Intern [Microsoft](https://gi
 [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![Yogita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogita10&theme=material-palenight&show_icons=true)
+![Yogita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogita10&theme=gruvbox_duo&show_icons=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogita10&theme=gruvbox_duo" alt="yogita10" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogita10&theme=algolia&show_icons=true&locale=en&layout=compact" alt="yogita10" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogita10&theme=gruvbox_duo&show_icons=true&locale=en&layout=compact" alt="yogita10" /></p> 
 <br><br>
 <br>
 <br>
