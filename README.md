@@ -18,9 +18,9 @@ I am Yogita Khurana, an upcoming Software Engineer Intern [Microsoft](https://gi
 [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![Yogita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogita10&theme=algolia&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogita10&theme=algolia" alt="yogita10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogita10&theme=nord_dark" alt="yogita10" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogita10&theme=algolia&show_icons=true&locale=en&layout=compact" alt="yogita10" /></p> 
-<br>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogita10&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
