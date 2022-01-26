@@ -52,11 +52,12 @@ Frameworks, Platforms and Libraries
 📫Connect with me:
 
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/yogita10/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/yogita10khurana) 
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:yogita10.work@gmail.com)
-
-
+<p align="left">
+<a href="https://twitter.com/yogita10khurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agarwalprachi_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yogita10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agarwal-prachi" height="30" width="40" /></a>
+<a href="mailto:yogita10.work@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/mail.png" alt="agarwal-prachi" height="50" width="50" /></a>
+</p>
+<br>
 
 <!--
 **yogita10/yogita10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
