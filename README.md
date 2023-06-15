@@ -53,9 +53,9 @@ Frameworks, Platforms and Libraries
 
 
 <p align="left">
-<a href="https://twitter.com/yogita10khurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agarwalprachi_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yogita10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agarwal-prachi" height="30" width="40" /></a>
-<a href="mailto:yogita10.work@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/mail.png" alt="agarwal-prachi" height="50" width="50" /></a>
+<a href="https://twitter.com/yogita10khurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogita" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yogita10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogita" height="30" width="40" /></a>
+<a href="mailto:yogita10.work@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/mail.png" alt="yogita" height="50" width="50" /></a>
 </p>
 <br>
 
