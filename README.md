@@ -1,17 +1,56 @@
-<h2 align="center">Hi, I'm Yogita Khurana  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">Hi, I'm Yogita Khurana 👋</h2>
+<p align="center">
+Software Engineer @ Microsoft Teams • AI Enthusiast • Mobile Systems Engineer • GHC Speaker'26
+</p>
+<p align="center">
+Building scalable mobile experiences, AI-powered products, and reliable systems used by millions of users worldwide.
+</p>
+
  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/yogita10/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yogita10khurana?style=social)](https://twitter.com/yogita10khurana)
-[![GitHub followers](https://img.shields.io/github/followers/yogita10?style=social)](https://github.com/yogita10)
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/yogita10/yogita10/main/Believe%20in%20Yourself.png"></h2>
 
-<h2>About me</h2>
+<h2> 👩‍💻 About Me </h2>
 
-I am Yogita Khurana, Software Engineer @[Microsoft](https://github.com/microsoft). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, I will be more than happy to help :D
+I’m a Software Engineer at Microsoft Teams with 3+ years of experience building large-scale mobile systems across Media, Search, Education, and AI-powered experiences.
+
+I enjoy solving complex engineering challenges around performance, reliability, scalability, and user experience. My work spans everything from architecting media platforms processing billions of interactions to building intelligent AI-powered features that help users work more efficiently.
+
+🚀 What I Work On
+
+* 📱 iOS Development (Swift & Objective-C)
+* 🎥 Media Platforms & Rich Content Experiences
+* 🔍 Search & Information Discovery
+* ⚡ Performance, Reliability & Scalability
+* 🏗️ Mobile Architecture & Platform Engineering
+* 🤖 AI-Powered Product Experiences
+* 🚀 Developer Productivity & Engineering Excellence
+
+🌟 Highlights
+
+* Increased media upload reliability from 94% → 99.9% across systems handling 2.8B+ uploads/month
+* Built AI-powered document summarization experiences reducing review time by 70%
+* Delivered Shared Gallery and rich media experiences supporting 4.8B+ daily views
+* Improved Teams search relevance and navigation, increasing suggestion CTR by 80%
+* Enhanced media loading experiences across 60B+ media loads
+* Led AI-assisted engineering adoption initiatives across Microsoft Teams Mobile
+
+🎤 Community
+
+* Speaker at Grace Hopper Celebration 2026 (GHC’26)
+* IEEE Hackathon Judge
+* Mentor for early-career engineers
+* Advocate for AI-assisted software engineering
+
+💬 Ask Me About
+
+iOS Development • System Design • Mobile Architecture • Search Systems • Performance Optimization • AI Engineering • Developer Productivity
+
+⚡ Fun fact: I love connecting with people, learning about their journeys, and discovering new perspectives through technology and community.
+
+
 <h3>Summary</h3>
-
 
 [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -31,23 +70,27 @@ I am Yogita Khurana, Software Engineer @[Microsoft](https://github.com/microsoft
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogita10&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats) -->
 
-<h2>🛠Tech Stack</h2>
+## 🛠 Tech Stack
 
-Languages  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Languages
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-Frameworks, Platforms and Libraries  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Mobile Development
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
+### AI & Productivity
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 📫Connect with me:
 
