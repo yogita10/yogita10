@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 
-I am Yogita Khurana, an upcoming Software Engineer Intern [Microsoft](https://github.com/microsoft). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am Yogita Khurana, Software Engineer @[Microsoft](https://github.com/microsoft). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 <h3>Summary</h3>
